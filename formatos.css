@@ -1,0 +1,53 @@
+body { text-align: center; padding-top: 30px;
+  background-image: url("fondo.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+/*
+.r{
+  visibility: hidden;
+}
+*/
+
+.logo1 {
+  border: 5px solid #CCC;
+  display: inline-block;
+  width:  40vw;
+  height: 45vh;
+
+
+}
+.logo2 {
+  border: 5px solid #CCC;
+  display: inline-block;
+  width:  40vw;
+  height: 45vh;
+
+}
+.recomendacion{
+  border: 5px solid #CCC;
+  display: inline-block;
+  width:  100vw;
+  height: 100vh;
+}
+.logo1b {
+  border: 5px solid #CCC;
+  display: inline-block;
+  width:  40vw;
+  height: 25vh;
+
+
+}
+.logo2b {
+  border: 5px solid #CCC;
+  display: inline-block;
+  width:  40vw;
+  height: 25vh;
+
+}
+
+
+
+
+
+img { display: block; }
